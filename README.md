@@ -1,1 +1,1 @@
-# flex-slider-with-thumbnail-
+# flex-slider-with-thumbnail
